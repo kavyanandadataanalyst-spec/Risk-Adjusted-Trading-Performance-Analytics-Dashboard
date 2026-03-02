@@ -300,8 +300,7 @@ It enables quick identification of top-performing months, underperforming region
 
 ---
 
-# 👤 Author
-
-Your Name  
+# Author: Kavyananda K
+Data Analyst
 
 
